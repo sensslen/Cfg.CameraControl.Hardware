@@ -8414,22 +8414,22 @@
 			)
 		)
 		(pin "2"
-			(uuid "28f9f603-f4a4-4f7c-b0a9-42b30083efa8")
+			(uuid "28f9f603-f4a4-4f7c-b0a9-42b30083efa9")
 		)
 		(pin "3"
-			(uuid "63c5bd92-e83c-4daa-ab2f-71faa3ffe196")
+			(uuid "63c5bd92-e83c-4daa-ab2f-71faa3ffe197")
 		)
 		(pin "5"
-			(uuid "96fbe377-22ce-4bf0-b948-2bcceba90689")
+			(uuid "96fbe377-22ce-4bf0-b948-2bcceba9068a")
 		)
 		(pin "4"
-			(uuid "17d5d9af-5e5d-436f-9cda-6809401a8e58")
+			(uuid "17d5d9af-5e5d-436f-9cda-6809401a8e59")
 		)
 		(pin "1"
-			(uuid "3dda1bbf-03d7-4a20-afff-28014b81dbf7")
+			(uuid "3dda1bbf-03d7-4a20-afff-28014b81dbf8")
 		)
 		(pin "6"
-			(uuid "1d53f639-3fe6-43f4-a212-517d8e50fe96")
+			(uuid "1d53f639-3fe6-43f4-a212-517d8e50fe97")
 		)
 		(instances
 			(project "Cgf.CameraControl.Hardware"
