@@ -58,11 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|75004001|66968001|728dd4e3-dd81-4f9a-9695-2b11dd82958f|e1781dbd-04ec-4f6b-9d48-b73eb37277dd",
-        "starved_thermal|78193200|29816600|e0c0f504-54b6-4cb2-89a8-bf70a8468edb|5474273d-3919-4e99-ac73-309c324325b9|B.Cu",
-        "starved_thermal|79693200|29816600|aa68b57d-9b34-4ab4-abbd-237e3b7a51cc|6c93c663-6bfa-461e-9c49-ac34d530d9df|B.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -184,7 +180,7 @@
       "track_widths": [
         0.0,
         0.2032,
-        0.508
+        0.4064
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
